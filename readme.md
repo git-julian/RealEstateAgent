@@ -7,12 +7,12 @@ For convenience it also includes a Streamlit-based web application to interact w
 
 ## Features
 
+
 	•	Generate Synthetic Listings: Create realistic real estate listings using GPT-3.5.
-	•	Semantic Search: Perform semantic searches over the listings using a vector database.
+	•	Semantic Search: Perform semantic searches over the listings using a vector database.	
 	•	Streamlit Web App: A user-friendly interface to interact with the generated listings and perform searches.
 
 Project Structure:
-.
 	-main.py                   # Main file for the Streamlit app
 	-listingcreation.py        # Script containing functions for creating and processing listings
 	-listingsearch.py          # Script containing search-related functions
@@ -20,7 +20,6 @@ Project Structure:
 	-README.md                 # Project documentation (this file)
 
 ## Requirements
-
 	•	Python 3.8 or higher
 	•	OpenAI API key (Get it from OpenAI)
 	•	The following Python packages (listed in requirements.txt):
@@ -42,7 +41,7 @@ Project Structure:
 
     3.	Set Up the .env File:
 			Create a .env file in the project root directory and add your OpenAI API key
-
+			
 
 ## Usage
 
