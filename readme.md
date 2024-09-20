@@ -34,7 +34,7 @@ Requirements
 Installation
 
 	1.	Clone the Repository:
-			git clone https://github.com/
+			git clone https://github.com/git-julian/RealEstateAgent/
         	cd real-estate-listings
 
     2.	Install the Required Packages:
