@@ -34,14 +34,14 @@ Requirements
 Installation
 
 	1.	Clone the Repository:
-        git clone https://github.com/
-        cd real-estate-listings
+			git clone https://github.com/
+        	cd real-estate-listings
 
     2.	Install the Required Packages:
-        pip install -r requirements.txt
+        	pip install -r requirements.txt
 
     3.Set Up the .env File:
-        Create a .env file in the project root directory and add your OpenAI API key
+       		Create a .env file in the project root directory and add your OpenAI API key
 
 
 Usage
